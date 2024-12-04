@@ -2,7 +2,7 @@
 <Project>
   <ProjectOutputs>
     <ProjectOutput>
-      <FullPath>D:\Dev\aplicatie\x64\Debug\aplicatie.exe</FullPath>
+      <FullPath>D:\aplicatie\x64\Debug\aplicatie.exe</FullPath>
     </ProjectOutput>
   </ProjectOutputs>
   <ContentFiles />
