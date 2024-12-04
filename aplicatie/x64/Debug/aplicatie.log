@@ -1,0 +1,5 @@
+﻿  main.cpp
+D:\Dev\aplicatie\aplicatie\main.cpp(89,20): warning C4244: 'initializing': conversion from 'Uint32' to 'float', possible loss of data
+D:\Dev\aplicatie\aplicatie\main.cpp(93,18): warning C4244: 'initializing': conversion from 'Uint32' to 'float', possible loss of data
+D:\Dev\aplicatie\aplicatie\main.cpp(97,14): warning C4244: 'argument': conversion from 'float' to 'Uint32', possible loss of data
+  aplicatie.vcxproj -> D:\Dev\aplicatie\x64\Debug\aplicatie.exe
